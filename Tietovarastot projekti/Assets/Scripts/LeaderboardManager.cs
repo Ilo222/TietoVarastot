@@ -6,7 +6,7 @@ using TMPro;
 public class LeaderboardManager : MonoBehaviour
 {
     // API osoite (sinulla nyt toimiva portti)
-    public string url = "http://localhost:5000/leaderboard";
+    public string url = "http://localhost:5198/leaderboard";
 
     // UI
     public TMP_Text leaderboardText;
